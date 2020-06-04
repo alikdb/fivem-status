@@ -8,8 +8,8 @@
  *  Project: FiveM
  **/
 
-$settings['title'] = "İsiklalRP";
-$settings['ip'] = "185.148.240.223";
+$settings['title'] = "Sunucu adı";
+$settings['ip'] = "000.000.000.000"; // Sunucu Ip'si
 $settings['port'] = "30120"; // Standart port 30120 olmalı (eğer değiştirilmediyse)
 $settings['max_slots'] = 128; // Kullanıcı slotu (Varsayılan 32)
 
