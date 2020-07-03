@@ -21,4 +21,8 @@ FiveM sunucu durumu için PHP framework
     $settings['max_slots'] = 128; // Kullanıcı slotu (Varsayılan 32)
   
    Bu şekilde yapılandırmanız gerekmektedir 
+   
+   
+   
+   
 3-) Hiç bir şekilde server IP adresinize ulaşım sağlanamaz yazdığınız sadece size kalır   
